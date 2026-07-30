@@ -1,25 +1,43 @@
-# Olá! 👋
+<div align="center">
 
-## Sobre mim
+# Pedro Henrique
 
-💻 Desenvolvedor em formação
+Backend Developer
 
-📚 Estudando:
-- Java
-- Spring Boot
-- HTML
-- CSS
-- JavaScript
+Java • Spring Boot • MySQL • Docker
 
-## Tecnologias
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+## Sobre
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- 💻 Desenvolvedor focado em Back-end
+- 📚 Atualmente estudando Java e Spring Boot
+- 🚀 Construindo projetos para meu portfólio
 
-## Contato
+---
 
-- LinkedIn
-- Email
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,vscode,idea" />
+</p>
+
+---
+
+## GitHub
+
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=000000"/>
+</p>
+
+---
+
+<div align="center">
+
+*"Code. Learn. Improve."*
+
+</div>
