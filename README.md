@@ -5,7 +5,10 @@
 **Estudante de Desenvolvimento de Sistemas · SENAI · São Paulo, SP**
 
 
-Java • Spring Boot • MySQL • Docker
+Estudante do curso técnico/tecnólogo em Desenvolvimento de Sistemas, com foco em
+programação mobile (Android nativo com Java e XML). Em desenvolvimento constante,
+aprendendo na prática através de projetos reais construídos em aula.
+
 
 </div>
 
