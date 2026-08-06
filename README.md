@@ -1,10 +1,5 @@
 
-readme_github.txt
-Página
-1
-/
-1
-100%
+
 # Pedro da Motta
 **Estudante de Desenvolvimento de Sistemas · SENAI · São Paulo, SP**
 
