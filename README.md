@@ -2,7 +2,8 @@
 
 # Pedro da Motta
 
-Dev Full Stack
+**Estudante de Desenvolvimento de Sistemas · SENAI · São Paulo, SP**
+
 
 Java • Spring Boot • MySQL • Docker
 
