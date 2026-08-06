@@ -5,11 +5,11 @@ Página
 /
 1
 100%
-# Seu Nome Completo
-**Estudante de Desenvolvimento Mobile · SENAI · São Paulo, SP**
+# Pedro da Motta
+**Estudante de Desenvolvimento de Sistemas · SENAI · São Paulo, SP**
 
 Estudante do curso técnico/tecnólogo em Desenvolvimento de Sistemas, com foco em
-programação mobile (Android nativo com Java e XML). Em desenvolvimento constante,
+programação Full Stack. Em desenvolvimento constante,
 aprendendo na prática através de projetos reais construídos em aula.
 
 ---
