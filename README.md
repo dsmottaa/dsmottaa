@@ -1,47 +1,46 @@
-<div align="center">
 
-# Pedro da Motta
-
-**Estudante de Desenvolvimento de Sistemas · SENAI · São Paulo, SP**
-
+readme_github.txt
+Página
+1
+/
+1
+100%
+# Seu Nome Completo
+**Estudante de Desenvolvimento Mobile · SENAI · São Paulo, SP**
 
 Estudante do curso técnico/tecnólogo em Desenvolvimento de Sistemas, com foco em
 programação mobile (Android nativo com Java e XML). Em desenvolvimento constante,
 aprendendo na prática através de projetos reais construídos em aula.
 
+---
 
-</div>
+## Tecnologias que estou aprendendo
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![XML](https://img.shields.io/badge/XML-0060AC?style=flat-square&logo=xml&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## Sobre
+## Sobre mim
 
-- 💻 Desenvolvedor focado em Back-end
-- 📚 Atualmente estudando Java e Spring Boot
-- 🚀 Construindo projetos para meu portfólio
-
----
-
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,vscode,idea" />
-</p>
+- 🎓 Cursando: *(nome do seu curso)*
+- 📱 Atualmente aprendendo: desenvolvimento Android com Java e XML
+- 🚀 Projeto do semestre: *(nome do app que sua dupla escolheu)*
+- 🌱 Objetivo: *(ex: "me tornar desenvolvedor(a) mobile", "conseguir meu primeiro estágio em TI")*
 
 ---
 
-## GitHub
+## Projetos
 
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=000000"/>
-</p>
+- **(nome do projeto do semestre)** — *(uma linha descrevendo o que o app faz)*
 
 ---
 
-<div align="center">
+## Contato
 
-*"Code. Learn. Improve."*
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+Exibindo readme_github.txt…
