@@ -2,7 +2,7 @@
 
 # Pedro da Motta
 
-Backend Developer
+Dev Full Stack
 
 Java • Spring Boot • MySQL • Docker
 
