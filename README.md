@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pedro Henrique
+# Pedro da Motta
 
 Backend Developer
 
