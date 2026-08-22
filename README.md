@@ -24,7 +24,7 @@ aprendendo na prática através de projetos reais construídos em aula.
 - 🎓 Cursando: *(Desenvolvimento de Sistemas.)*
 - 📱 Atualmente aprendendo: desenvolvimento Android com Java e XML
 - 🚀 Projeto do semestre: *(Netflix)*
-- 🌱 Objetivo: *(ex: "me tornar Tecnólogo em Cibersegurança",  "e conseguir meu primeiro estágio em TI")*
+- 🌱 Objetivo: Me tornar Tecnólogo em Cibersegurança, e conseguir meu primeiro estágio em TI!
 
 ---
 
