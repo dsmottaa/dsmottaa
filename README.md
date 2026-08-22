@@ -21,10 +21,10 @@ aprendendo na prática através de projetos reais construídos em aula.
 
 ## Sobre mim
 
-- 🎓 Cursando: *(nome do seu curso)*
+- 🎓 Cursando: *(Desenvolvimento de Sistemas.)*
 - 📱 Atualmente aprendendo: desenvolvimento Android com Java e XML
-- 🚀 Projeto do semestre: *(nome do app que sua dupla escolheu)*
-- 🌱 Objetivo: *(ex: "me tornar desenvolvedor(a) mobile", "conseguir meu primeiro estágio em TI")*
+- 🚀 Projeto do semestre: *(Netflix)*
+- 🌱 Objetivo: *(ex: "me tornar Tecnólogo em Cibersegurança",  "e conseguir meu primeiro estágio em TI")*
 
 ---
 
